@@ -1,9 +1,9 @@
-<h1>webGui.js</h1>
+<b><h1>webGui.js</h1></b>
 
 This is a fairly small and simple JavaScript library I made to assist in creating HTML pages with raw JavaScript.
 It's inspired off Roblox Lua.
 
-## **Documentation**
+## <b>**Documentation**</b>
 Here's the low down on using this library!
 
 
