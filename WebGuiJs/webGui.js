@@ -38,7 +38,7 @@ function newUi(type,parent){
         
     }
     
-    newObj.Z = function(z){newObj.obj.zIndex = z}
+    newObj.Z = function(z){newObj.obj.style.zIndex = z}
     
     newObj.OnClick = function(doFunct){newObj.obj.onclick=doFunct}
     
