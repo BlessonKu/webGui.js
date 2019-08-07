@@ -7,7 +7,7 @@ It's inspired off Roblox Lua.
 Here's the low down on using this library!
 
 
-### print(string *message*)
+**print(string *message*)**
 A global function.
 *print* is now the same as *console.log*
 So you can do 
@@ -19,66 +19,66 @@ and it would be the same as doing
 console.log("Hello world!");
 ```
 
-### Body
+**Body**
 A global object.
 Represents the <body> tag.
 Kinda like *workspace* in Roblox Lua.
 Objects will not be visible unless under Body.
 
-### OnMobile
+**OnMobile**
 A global boolean.
 OnMobile returns true if on mobile or false if not.
 Useful for making things mobile friendly.
 
-### newUi(String *HTML Element Type*, Object *parent (optional)*)
+**newUi(String *HTML Element Type*, Object *parent (optional)*)**
 A global function.
 This is what contains the majority of functionality.
 Creates a new Ui Object.
 Has option to set parent.
 
-### UiObj.**Position**(Number *X*, Number *Y*)
+**UiObj.**Position**(Number *X*, Number *Y*)**
 A Ui object's function.
 Sets the position of said object.
 You can specify pixels, percentages, or a calculation of both.
 See Example 1.
 
-### UiObj.**Z**(Number *Z*)
+**UiObj.**Z**(Number *Z*)**
 A Ui object's function.
 Sets the Z position of said object.
 Useful for bringing things forward or sending things back.
 
-### UiObj.**Size**(Number *Width*, Number *Height*)
+**iObj.**Size**(Number *Width*, Number *Height*)**
 A Ui object's function.
 Sets the size of said object.
 You can specify pixels, percentages, or a calculation of both.
 Just like you would specify with Position.
 See Example 1.
 
-### UiObj.**OnClick**(Function *callback function*)
+**UiObj.**OnClick**(Function *callback function*)**
 A Ui object's function.
 The callback function is called whenever said object is clicked.
 
-### UiObj.**BackgroundColor**(String *Color*)
+**UiObj.**BackgroundColor**(String *Color*)**
 A Ui object's function.
 Sets the object's background color.
 Can be HEX or name.
 See Example 1.
 
-### UiObj.**TextColor**(String *Color*)
+**UiObj.**TextColor**(String *Color*)**
 A Ui object's function.
 Sets the object's Text color.
 Can be HEX or name.
 See Example 1.
 
-### UiObj.**TextSize**(Number *Size*)
+**UiObj.**TextSize**(Number *Size*)**
 A Ui object's function.
 Sets the object's Text Size.
 
-### UiObj.**Text**(String *text*)
+**UiObj.**Text**(String *text*)**
 A Ui object's function.
 Sets the object's Text.
 
-### UiObj.**Parent**(Object *parent*)
+**UiObj.**Parent**(Object *parent*)**
 A Ui object's function.
 Sets the object's parent.
 
@@ -99,6 +99,7 @@ In both cases, the Heading object (Equivalent to the h1 tag) becomes a child of 
 
 
 ##Examples
+
 Here are some epic examples to help you in your quest.
 
 Example 1:
