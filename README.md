@@ -3,6 +3,8 @@
 This is a fairly small and simple JavaScript library I made to assist in creating HTML pages with raw JavaScript.
 It's inspired off Roblox Lua.
 
+Free to use on your own projects, personal or commercial.
+
 ## <b>**Documentation**</b>
 Here's the low down on using this library!
 
