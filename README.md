@@ -1,4 +1,4 @@
-# webGui.js
+<h1>webGui.js</h1>
 
 This is a fairly small and simple JavaScript library I made to assist in creating HTML pages with raw JavaScript.
 It's inspired off Roblox Lua.
@@ -95,7 +95,7 @@ Here's the other way
 Heading = newUi('h1')
 Heading.Parent(Body)
 ```
-In both cases, the Heading object (Equivalent to the <h1> tag) becomes a child of the Body object (<Body>).
+In both cases, the Heading object (Equivalent to the h1 tag) becomes a child of the Body object.
 
 
 ##Examples
