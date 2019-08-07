@@ -98,7 +98,7 @@ Heading.Parent(Body)
 In both cases, the Heading object (Equivalent to the h1 tag) becomes a child of the Body object.
 
 
-##Examples
+## <b>**Examples**</b>
 
 Here are some epic examples to help you in your quest.
 
